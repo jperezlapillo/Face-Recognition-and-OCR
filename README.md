@@ -1,2 +1,4 @@
-# FaceRecognitionAndOCR
-Repository for Computer Vision Coursework. City, University of London
+# Face Recognition And Object Character Recognition
+
+Computer Vision
+City, University of London
